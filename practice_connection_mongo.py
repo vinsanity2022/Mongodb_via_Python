@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 user = 'root'
-password = 'MTMzNzgtbWFuYWdi' # insert you own password
+password = ' ' # insert you own password
 host = 'localhost'
 
 
